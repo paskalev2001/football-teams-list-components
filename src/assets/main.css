@@ -1,0 +1,10 @@
+@import './base.css';
+
+.card {
+  background-color: whitesmoke;
+  margin: 8px;
+}
+
+.not-found {
+  color: red;
+}
